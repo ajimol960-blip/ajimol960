@@ -1,38 +1,89 @@
 # Hi 👋, I'm Ajimol Shaheer
 
 ### 🚀 About Me
- -I'm a passionate developer who loves building cool projects.
-- 🔭 Currently working on **Data Analytics & Backend Projects**
-- 🌱 Learning **FastAPI, Python & Machine Learning**
-- 💬 Ask me about **Python, SQL, Power BI, Excel**
-- 📫 Reach me at: **ajimol960@gmail.com**
+- 🔭 **Currently working on:** Data Analytics & Backend Engineering Projects
+- 🐍 **Tech Stack Focus:** Python, FastAPI, Django & Database Management
+- 📊 **Data Expertise:** Power BI Dashboards, Power Query, DAX & Advanced Excel
+- 💬 **Ask me about:** Python, SQL, REST APIs, Data Modeling & Visualizations
+- 📫 **How to reach me:** ajimolshaheer@gmail.com
 
-- ## 🌐 Connect with Me
-<a href="www.linkedin.com/in/ajimol-shaheer-b62915151" target="blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-</a>
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="www.linkedin.com/in/ajimol-shaheer-b62915151" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ## 🛠️ Languages & Tools
 
-### 🐍 Programming Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🐍 Backend & Databases
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+  </a>
+</p>
 
 ### 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://www.microsoft.com/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="excel" width="45" height="45"/>
+  </a>
+</p>
 
-### ⚙️ Developer Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-409FFF?style=for-the-badge&logo=fastapi&logoColor=white)
+### ⚙️ Tools & Platforms
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 📌 Featured Projects
+- 🏨 **Hospitality Performance Dashboard:** Interactive Power BI & Excel dashboard for revenue, occupancy, and retention tracking.
+- ⚡ **FastAPI REST API Service:** Backend API service built with Python, SQLAlchemy, and PostgreSQL integration.
+- 🌐 **Personal Portfolio Website:** Custom responsive portfolio site showcasing key projects and data models.
+
+---
+
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajimol960-blip&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajimol960-blip&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ajimol960-blip&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ajimol960-blip&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajimol960-blip&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
