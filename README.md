@@ -95,3 +95,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajimol960-blip&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+## 📌 My Repositories
+- [resort-ai-chatbot]((https://github.com/ajimol960-blip/resort-ai-chatbot)
+- [Resort-Booking-Management-API--backend-development](https://github.com/ajimol960-blip/Resort-Booking-Management-API--backend-development)
+-  [smart-bakery-bot](https://github.com/ajimol960-blip/smart-bakery-bot)
+-  [FastAPI-CRUD-using-psycopg2](https://github.com/ajimol960-blip/FastAPI-CRUD-using-psycopg2)
+-  [GoldVista-Analytics](https://github.com/ajimol960-blip/GoldVista-Analytics)
+-  [excel-dashboard-Project](https://github.com/ajimol960-blip/excel-dashboard-Project)
+-  
