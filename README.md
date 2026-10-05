@@ -97,7 +97,7 @@
 </p>
 
 ## 📌 My Repositories
-- [resort-ai-chatbot]((https://github.com/ajimol960-blip/resort-ai-chatbot)
+- [resort-ai-chatbot](https://github.com/ajimol960-blip/resort-ai-chatbot)
 - [Resort-Booking-Management-API--backend-development](https://github.com/ajimol960-blip/Resort-Booking-Management-API--backend-development)
 -  [smart-bakery-bot](https://github.com/ajimol960-blip/smart-bakery-bot)
 -  [FastAPI-CRUD-using-psycopg2](https://github.com/ajimol960-blip/FastAPI-CRUD-using-psycopg2)
