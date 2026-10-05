@@ -43,6 +43,14 @@
   </a>
 </p>
 
+<p align="left">
+  &nbsp;
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45"/>
+  </a>
+</p>
+
+
 ### 📊 Data Analytics & Visualization
 <p align="left">
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
@@ -66,6 +74,13 @@
   &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  </a>
+</p>
+
+<p align="left">
+  &nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/>
   </a>
 </p>
 
