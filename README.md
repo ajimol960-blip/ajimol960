@@ -72,8 +72,11 @@
 ---
 
 ## 📌 Featured Projects
+
+- 🏨 **Resort Chatbot:** AI-powered conversational assistant designed for resort booking and customer inquiries.
 - 🏨 **Hospitality Performance Dashboard:** Interactive Power BI & Excel dashboard for revenue, occupancy, and retention tracking.
 - ⚡ **FastAPI REST API Service:** Backend API service built with Python, SQLAlchemy, and PostgreSQL integration.
+- 🥐 **Bakery Chatbot:** Automated chatbot for a bakery to handle menu browsing, orders, and customer support.
 - 🌐 **Personal Portfolio Website:** Custom responsive portfolio site showcasing key projects and data models.
 
 ---
