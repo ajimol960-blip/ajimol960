@@ -97,6 +97,7 @@
 </p>
 
 ## 📌 My Repositories
+- https://github.com/ajimol960-blip/Sales_Chat_App
 - [resort-ai-chatbot](https://github.com/ajimol960-blip/resort-ai-chatbot)
 - [Resort-Booking-Management-API--backend-development](https://github.com/ajimol960-blip/Resort-Booking-Management-API--backend-development)
 -  [smart-bakery-bot](https://github.com/ajimol960-blip/smart-bakery-bot)
